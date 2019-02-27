@@ -1,0 +1,15 @@
+.box{
+    background-color: orange;
+    h1{
+        &:hover{
+            color:#000;
+        }
+        color: red
+    }
+    span{
+        color: white
+    }
+    p{
+        color: green
+    } 
+}
